@@ -1,2 +1,2 @@
-# MLOps-Zoomcamp-Module-7-Project-2-Citi-Bike-Ride-Duration-Prediction
-MLOps-Zoomcamp-Module-7-Project-2-Citi-Bike-Ride-Duration-Prediction
+# MLOps-Zoomcamp-Module-1-MLOps-Introduction
+MLOps-Zoomcamp-Module-1-MLOps-Introduction
